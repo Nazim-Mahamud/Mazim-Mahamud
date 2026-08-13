@@ -26,6 +26,8 @@ software development, and learning new technologies.
 - C++
 - Java
 - Python
+- Git bash
+- Assembly Language
 
 ### Web Development
 - HTML
@@ -42,9 +44,11 @@ software development, and learning new technologies.
 - GitHub
 - VS Code
 - Draw.io
+- AutoCad
 
 ### Core Concepts
 - Data Structures & Algorithms
+- OOP 
 - Database Management Systems
 - Operating Systems
 - Computer Networks
